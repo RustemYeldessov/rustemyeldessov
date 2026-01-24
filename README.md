@@ -29,16 +29,6 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
-Здесь будет отображаться твоя реальная активность (карточки обновляются автоматически):
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustemyeldessov&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustemyeldessov&layout=compact&theme=visual_studio_code&langs_count=6" />
-</p>
-
----
-
 ### 📫 Как со мной связаться
 * **Telegram:** [@yeldessovrus](https://t.me/yeldessovrus)
 * **LinkedIn:** [Твой Профиль](https://linkedin.com/in/твой_профиль)
