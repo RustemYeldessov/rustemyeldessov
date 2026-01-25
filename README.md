@@ -31,5 +31,5 @@
 
 ### 📫 Как со мной связаться
 * **Telegram:** [@yeldessovrus](https://t.me/yeldessovrus)
-* **LinkedIn:** [Твой Профиль](https://linkedin.com/in/твой_профиль)
-* **Email:** eldesov1997@email.com
+* **LinkedIn:** [](https://linkedin.com/in/твой_профиль)
+* **Email:** rustem.yeldessov@gmail.com
